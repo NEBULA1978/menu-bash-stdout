@@ -1,0 +1,50 @@
+vim test
+
+con i para poder escribir
+
+escribimos dsfsd y con control u se borra
+
+con j saltamos a la linea de abajo
+
+k es pra ir para arriba
+
+l para ir a la derecha
+
+h para ir a la izquierda
+
+inicio y din para ir al principio o al final de la linea
+
+con 0 vamos al principio
+
+w para movernos entre palabras
+
+para desplazarme 3 plabras a la derecha con 3 w
+
+control inicio vamos al inicio
+
+estando el cursor en una palabra con d w
+
+d d para borrar linea
+
+2 d d para borrar dos lineas
+
+con v aplicamos una seleccion con el cursor derecha o izquierda con y copiamos
+
+con o creamos una nueva linea y con p copiamos
+
+
+con v seleccionamo y control j selec lineas abajo y copiamos y con p pegamos
+
+selecionamos dos lineas y con d cortamos y con d pegamos
+
+escirmimos algo y bajamos la linea y con j 0 . nos escribre lo mismo de antes
+
+
+
+
+
+
+
+
+
+
